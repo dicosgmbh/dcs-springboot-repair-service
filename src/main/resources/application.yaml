@@ -4,7 +4,7 @@ server:
 
 spring:
   security:
-    users: 
+    user: 
       name: user1
       password: mypass
 

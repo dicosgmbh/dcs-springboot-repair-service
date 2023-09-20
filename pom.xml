@@ -198,9 +198,9 @@
 			<version>1.6.11</version>
 		</dependency>
 		<dependency>
-			<groupId>org.apache.cxf</groupId>
-			<artifactId>cxf-bundle-jaxrs</artifactId>
-			<version>2.2.9</version>
+			<groupId>org.springdoc</groupId>
+			<artifactId>springdoc-openapi-common</artifactId>
+			<version>1.7.0</version>
 		</dependency>
 	</dependencies>
 </project>
