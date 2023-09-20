@@ -8,9 +8,9 @@
 		<skipDev>true</skipDev>
 	</properties>
 	<scm>
-		<connection>scm:git:https://git.da.dicos.de/dcs/applicants/dcs-springboot-repair-service.git</connection>
-		<developerConnection>scm:git:https://git.da.dicos.de/dcs/applicants/dcs-springboot-repair-service.git</developerConnection>
-		<url>https://git.da.dicos.de/dcs/applicants/dcs-springboot-repair-service.git</url>
+		<connection>scm:git:https://github.com/dicosgmbh/dcs-springboot-repair-service.git</connection>
+		<developerConnection>scm:git:https://github.com/dicosgmbh/dcs-springboot-repair-service.git</developerConnection>
+		<url>https://github.com/dicosgmbh/dcs-springboot-repair-service.git</url>
 		<tag>HEAD</tag>
 	</scm>
 	<build>
